@@ -40,6 +40,10 @@ pip install -r requirements.txt
   ```commad
   python ./scripts/inser_to_kafka.py
   ```
+  ```commad
+  python ./scripts/read_from_kafka.py
+  ```
+
 
 ## Проверка
 
